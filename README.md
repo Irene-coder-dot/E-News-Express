@@ -149,9 +149,5 @@ The analysis provides strong statistical evidence that the redesigned landing pa
 ---
 
 ### Connect With Me
-### Author
-**Irene Kibengo**
-
-Aspiring Data Analyst with interests in Business Analytics, Statistics, Machine Learning, and Data Visualization.
 
 🔗 LinkedIn: https://www.linkedin.com/in/irene-kibengo-44964356/
